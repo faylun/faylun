@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Kauan, sou um estudante de programação e de cibersegurança
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=faylun&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=faylun&show_icons=true&theme=transparent"
+    media="(prefers-color-scheme: transparent)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=faylun&show_icons=true"
