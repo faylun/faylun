@@ -14,8 +14,8 @@
   <img align="center" alt="faylun-NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
      alt="JavaScript" width="40" height="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
-     alt="Linux" width="40" height="40"/>
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" 
+     alt="Linux Tux" width="40" height="40">
   
   </div>
 
