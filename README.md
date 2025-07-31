@@ -40,9 +40,12 @@
   # <code>𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 𝙺𝚊𝚞𝚊𝚗, 𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌 𝚎𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝</code>
 
 ```bash
-$ whoami
+┌──(kauan㉿github)-[~]
+└─$ whoami
 kauan
-$ echo "Currently studying cybersecurity..."
+
+┌──(kauan㉿github)-[~]
+└─$ echo "Currently studying cybersecurity..."
 Currently studying cybersecurity...
 ```
 
