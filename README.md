@@ -32,6 +32,20 @@
     target="_blank"></a>
     <a href="https://hackerone.com/faylun?type=user">
     <img src="https://img.shields.io/badge/HackerOne-black?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne Badge"/>
+
+      ![Descrição do gif](https://camo.githubusercontent.com/0a0dc4ec78739f9c62b556ee154065af0de7b337110cfd95587770c4b3e269c7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966)
   </div>
   
-  
+
+  # <code>𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 𝙺𝚊𝚞𝚊𝚗, 𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌 𝚎𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝</code>
+
+```bash
+$ whoami
+kauan
+$ echo "Currently studying cybersecurity..."
+Currently studying cybersecurity...
+
+<div align="left"> <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img align="center" alt="NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /> <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img align="center" alt="Linux" height="40" width="50" src="https://img.icons8.com/color/48/000000/linux.png" /> <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> </div>
+
+![Hacker GIF](https://camo.githubusercontent.com/0a0dc4ec78739f9c62b556ee154065af0de7b337110cfd95587770c4b3e269c7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966)
+
