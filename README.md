@@ -10,22 +10,10 @@
 
 👤 Kauan Silveira
 💻 InfoSec | Pentest | Red Team
-🐧 Arch Linux + Hyprland
-🎯 Sonho: Trabalhar no Google ou Microsoft
 
 [~] Skills:
 - 🔍 Exploração Web (XSS, CSRF, SQLi)
 - 💻 Linux Hardcore User
-- 🕵️‍♂️ Red Team Simulation
-- 🧠 Cibersegurança e Infraestrutura
-- 🧰 Ferramentas: CrackMapExec, Nmap, Burp, Metasploit
-
-[~] Projetos:
-📁 ArchLupi – mascote estilo hacker
-📄 Exercícios CISA Tabletop (ransomware)
-🧪 Laboratórios XSS e SQLi
-🧾 Formulário de Cadastro com HTML + JS + CSS
-🎮 D&D Dungeon baseada em física e matemática
 
 [~] Contato:
 📫 Email: seuemail@exemplo.com
