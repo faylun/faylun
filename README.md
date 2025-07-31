@@ -34,7 +34,12 @@
     <img src="https://img.shields.io/badge/HackerOne-black?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne Badge"/>
 
   </div>
-  
+
+  <p align="center">
+  <img src="https://your-gif.gif" width="100%" style="opacity:0.2;position:absolute;z-index:-1;">
+</p>
+
+
 
   # <code>𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 𝙺𝚊𝚞𝚊𝚗, 𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌 𝚎𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝</code>
 
