@@ -24,10 +24,8 @@
 </code>
 </pre>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/linux.png" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
+<div>
+  <img src="https://img.shields.io/badge/Linux%20User-Arch%20%2B%20Hyprland-9cf?logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Red%20Team-red?logo=kalilinux" />
+  <img src="https://img.shields.io/badge/Goal-Google%20%7C%20Microsoft-blue?logo=target" />
 </div>
