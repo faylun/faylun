@@ -16,8 +16,9 @@
      alt="JavaScript" width="40" height="40"/>
 <img align="center" src="https://img.icons8.com/color/48/000000/linux.png" 
      alt="Linux Tux" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" 
-     alt="PHP" width="40" height="40"/>
+<img align="center" src="https://www.php.net/images/logos/new-php-logo.svg" 
+     alt="PHP" width="60" height="40"/>
+
 
   
   </div>
