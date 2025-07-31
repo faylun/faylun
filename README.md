@@ -1,50 +1,8 @@
-## Hello! I'm Kauan, and I'm currently studying cybersecurity.
-
-  ![Faylun's GitHub stats](https://github-readme-stats.vercel.app/api?username=faylun&show_icons=true&theme=highcontrast)
-  </br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faylun&layout=compact&theme=highcontrast)
-
-  ##
-
-  ### Technologies that I use
-  
-  <div style="display: inline_block" >
-
-  <img align="center" alt="faylun-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
-  <img align="center" alt="faylun-NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-     alt="JavaScript" width="40" height="40"/>
-<img align="center" src="https://img.icons8.com/color/48/000000/linux.png" 
-     alt="Linux Tux" width="40" height="40">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" 
-     alt="PHP" width="40" height="40"/>
-
-
-  
-  </div>
-
-  ##
-
-  ### Social Network
-  <div>
-    <a href="https://www.linkedin.com/in/kauan-silveira-9032a826b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://www.twitter.com/kkauanzinn" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" 
-    target="_blank"></a>
-    <a href="https://hackerone.com/faylun?type=user">
-    <img src="https://img.shields.io/badge/HackerOne-black?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne Badge"/>
-
-  </div>
-
-  <p align="center">
-  <img src="https://your-gif.gif" width="100%" style="opacity:0.2;position:absolute;z-index:-1;">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hello+world...;I'm+Kauan%2C+Cybersec+Enthusiast;Red+Team+%7C+Linux+%7C+OffSec+Lover+%7C+Coder" alt="Typing SVG" />
 </p>
 
-
-
-  # <code>𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 𝙺𝚊𝚞𝚊𝚗, 𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌 𝚎𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝</code>
-
-
-<h1 align="center">🖥️ Terminal Session</h1>
+---
 
 ┌──(kauan㉿github)-[~]
 └─$ whoami
@@ -57,47 +15,52 @@ Currently studying cybersecurity...
 
 ---
 
-### 🧠 Tech Stack
+## 🧠 Skills
+
+┌──(kauan㉿github)-[~]
+└─$ cat stack.txt
+[+] Python
+[+] JavaScript
+[+] PHP
+[+] NodeJS
+[+] Linux
+
 
 <div align="left">
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  <img align="center" alt="NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Linux" height="40" width="50" src="https://img.icons8.com/color/48/000000/linux.png" />
-  <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" width="40"/>
 </div>
 
 ---
 
-### 🧪 Sample Scan
+┌──(kauan㉿github)-[~]
+└─$ curl kauan.dev/about
+
+Cybersecurity enthusiast
+Red Team mindset
+OSINT, XSS, RCE & Shells
+Studying 0days and exploitation
+Always learning. Always curious.
 
 
----
-
-### 👨‍💻 About Me
+## 🔗 Connect
 
 ┌──(kauan㉿github)-[~]
-└─$ curl https://kauan.dev/about
-
-Cybersecurity enthusiast.
-Always learning. Always curious.
-Focused on Red Team, Linux, Networking and Offensive Security.
+└─$ ./socials.sh
 
 
----
-
-### 🎯 Contact
-
-[![Email](https://img.shields.io/badge/Email-kauan%40email.com-informational?style=flat&logo=gmail&logoColor=white&color=red)](mailto:kauan@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KauanSilveira-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seu-perfil)
+[![Email](https://img.shields.io/badge/kauan@email.com-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:kauan@email.com)
+[![LinkedIn](https://img.shields.io/badge/KauanSilveira-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/KauanSilveira)
 
 ---
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/0a0dc4ec78739f9c62b556ee154065af0de7b337110cfd95587770c4b3e269c7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966" width="600px">
+  <img src="https://camo.githubusercontent.com/0a0dc4ec78739f9c62b556ee154065af0de7b337110cfd95587770c4b3e269c7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966" width="600px"/>
 </p>
 
 ---
 
-![Hacker GIF](https://camo.githubusercontent.com/0a0dc4ec78739f9c62b556ee154065af0de7b337110cfd95587770c4b3e269c7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966)
 
