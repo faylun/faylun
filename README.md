@@ -1,10 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9B07C3&center=true&vCenter=true&width=750&lines=I'm+Kauan.+I'm+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
 
-<!-- Banner ou imagem (opcional) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=140&section=header&text=Kauan%20Silveira&fontColor=ffffff&fontSize=30&fontAlign=50&fontAlignY=35" alt="Banner">
-</p>
-
 <!-- Estilo terminal verde -->
 <pre style="background-color:black;color:#33ff33;padding:16px;border-radius:10px;font-family:monospace;font-size:14px">
 [~] Initializing profile...
