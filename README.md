@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9B07C3&center=true&vCenter=true&width=750&lines=I'm+Kauan.+I'm+Cybersecurity+Enthusiast" alt="Typing SVG" />
 </p>
 
-<pre align="center">
+<pre>
 <span style="color:#33ff33">
 
 [~] Initializing profile...
