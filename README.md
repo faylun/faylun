@@ -3,16 +3,15 @@
 </p>
 
 <pre>
-<span style="color:#33ff33">
-
+<code>
 [~] Initializing profile...
 ┌──(kauan㉿archlinux)-[~/github]
 └─$ whoami
 
-👤 Kauan Silveira  
-💻 InfoSec | Pentest | Red Team  
-🐧 Arch Linux + Hyprland  
-🎯 Sonho: Trabalhar no Google ou Microsoft  
+👤 Kauan Silveira
+💻 InfoSec | Pentest | Red Team
+🐧 Arch Linux + Hyprland
+🎯 Sonho: Trabalhar no Google ou Microsoft
 
 [~] Skills:
 - 🔍 Exploração Web (XSS, CSRF, SQLi)
@@ -22,26 +21,25 @@
 - 🧰 Ferramentas: CrackMapExec, Nmap, Burp, Metasploit
 
 [~] Projetos:
-📁 ArchLupi – mascote estilo hacker  
-📄 Exercícios CISA Tabletop (ransomware)  
-🧪 Laboratórios XSS e SQLi  
-🧾 Formulário de Cadastro com HTML + JS + CSS  
-🎮 D&D Dungeon baseada em física e matemática  
+📁 ArchLupi – mascote estilo hacker
+📄 Exercícios CISA Tabletop (ransomware)
+🧪 Laboratórios XSS e SQLi
+🧾 Formulário de Cadastro com HTML + JS + CSS
+🎮 D&D Dungeon baseada em física e matemática
 
 [~] Contato:
-📫 Email: seuemail@exemplo.com  
-🌐 Portfólio: [seu-link](https://seu-site.com)  
-🐙 GitHub: [@seuusuario](https://github.com/seuusuario)  
+📫 Email: seuemail@exemplo.com
+🌐 Portfólio: [seu-link](https://seu-site.com)
+🐙 GitHub: [@seuusuario](https://github.com/seuusuario)
 
 [+] Stay tuned for more commits... 💥
-
-</span>
+</code>
 </pre>
 
-<p align="center">
-  <img alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
-  <img alt="NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
-  <img alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img alt="Linux" height="40" width="40" src="https://img.icons8.com/color/48/000000/linux.png"/>
-  <img alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/linux.png" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
+</div>
