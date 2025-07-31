@@ -12,7 +12,9 @@
 
   <img align="center" alt="faylun-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
   <img align="center" alt="faylun-NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="faylun-java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
+  <img align="center" height="40" width="50" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img align="center" height="40" width="50" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  
   </div>
 
   ##
