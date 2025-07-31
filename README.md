@@ -1,14 +1,6 @@
-<h1 align="center">🐰 Kauan Silveira aka Faylun</h1>
-<p align="center"><em>Cybersecurity student • Offensive Security Enthusiast • Red Team Minded</em></p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=24&pause=1000&color=81249F&center=false&vCenter=true&width=435&lines=Hello!+I'm+Kauan)](https://git.io/typing-svg)
+<p><em>Cybersecurity student • Offensive Security Enthusiast</em></p>
 
----
-
-<h2>🧠 About Me</h2>
-
-- 🔐 Currently studying cybersecurity, offensive security and ethical hacking
-- ⚙️ I enjoy scripting, automation and reverse engineering
-- 🧰 My lab runs mostly on Linux and open-source tools
-- 🐾 I'm also building my own RPG universe and custom tools
 
 ---
 
@@ -16,7 +8,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faylun&show_icons=true&theme=highcontrast&hide_title=true&border_radius=12" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faylun&layout=compact&theme=highcontrast&border_radius=12" />
 </div>
 
@@ -30,7 +21,7 @@
 
 ---
 
-<h2>🌐 Socials & Bug Bounty</h2>
+<h2>🌐 Socials</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kauan-silveira-9032a826b" target="_blank">
@@ -45,9 +36,3 @@
 </div>
 
 ---
-
-<h2>📟 Terminal Vibes</h2>
-
-```sh
-curl https://github.com/faylun
-# Hacking my way into understanding the system
