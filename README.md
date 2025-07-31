@@ -1,4 +1,4 @@
-## Olá! Eu sou o Kauan, estudante de programação e de cibersegurança
+## Hello! I'm Kauan, and I'm currently studying cybersecurity.
 
   ![Faylun's GitHub stats](https://github-readme-stats.vercel.app/api?username=faylun&show_icons=true&theme=highcontrast)
   </br>
@@ -6,7 +6,7 @@
 
   ##
 
-  ### Tecnologias que eu utilizo
+  ### Technologies that I use
   
   <div style="display: inline_block" >
 
