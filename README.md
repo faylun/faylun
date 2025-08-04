@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=36&pause=1000&color=81249F&center=true&vCenter=true&width=900&lines=Hello,+I'm+Kauan!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=36&pause=1000&color=81249F&center=true&vCenter=true&width=900&lines=Hello,+I'm+Kauan!)](https://git.io/typing-svg)
 
 <p><em>Cybersecurity student • Offensive Security Enthusiast</em></p>
 
