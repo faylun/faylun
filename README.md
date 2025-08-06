@@ -34,9 +34,6 @@
   <a href="https://www.twitter.com/kkauanzinn" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://hackerone.com/faylun?type=user" target="_blank">
-    <img src="https://img.shields.io/badge/HackerOne-black?style=for-the-badge&logo=hackerone&logoColor=white"/>
-  </a>
 </div>
 
 ---
